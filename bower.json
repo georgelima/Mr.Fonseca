@@ -1,0 +1,25 @@
+{
+  "name": "mrfonsecatones",
+  "authors": [
+    "georgelima <georgelima11@hotmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "keywords": [
+    "tm"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "^4.1.1",
+    "jquery": "^2.2.3",
+    "react": "^15.0.1"
+  }
+}
